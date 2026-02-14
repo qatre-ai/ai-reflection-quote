@@ -11,9 +11,9 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Light+Mode+Preview" alt="Light Mode" width="45%">
-  <img src="https://via.placeholder.com/600x300/16213e/ffffff?text=Dark+Mode+Preview" alt="Dark Mode" width="45%">
+<<div align="center">
+  <img src="assets/light-mode.png" alt="Light Mode" width="45%">
+  <img src="assets/dark-mode.png" alt="Dark Mode" width="45%">
 </div>
 
 ---
